@@ -26,3 +26,56 @@ Mean Reward: 100.0<br>
 Mean Reward: 84.7014084507
 
 
+30 Minutes:
+
+Mean Reward: 11.5581778266<br>
+Mean Reward: 57.7724137931<br>
+Mean Reward: 15.2754820937<br>
+Mean Reward: 36.0758409786<br>
+Mean Reward: 94.5653543307<br>
+Saved Model<br>
+Mean Reward: 35.2173913043<br>
+Mean Reward: 99.1867768595<br>
+Mean Reward: 85.3127659574<br>
+Mean Reward: 63.5942105263<br>
+Mean Reward: 84.0986013986<br>
+Saved Model<br>
+Mean Reward: 94.6267716535<br>
+Mean Reward: 94.5700787402<br>
+Mean Reward: 100.0<br>
+Mean Reward: 84.7014084507<br>
+Mean Reward: 48.5549180328<br>
+Saved Model<br>
+Mean Reward: 68.5426136364<br>
+Mean Reward: 79.9628378378<br>
+Mean Reward: 70.6125<br>
+Mean Reward: 70.1165680473<br>
+Mean Reward: 94.5692913386<br>
+Saved Model<br>
+Mean Reward: 58.9695<br>
+Mean Reward: 94.5523809524<br>
+Mean Reward: 41.2466216216<br>
+Mean Reward: 22.2145956607<br>
+Mean Reward: 68.6090909091<br>
+Saved Model<br>
+Mean Reward: 90.3759398496<br>
+Mean Reward: 99.1983471074<br>
+Mean Reward: 100.0<br>
+Mean Reward: 83.3232394366<br>
+Mean Reward: 99.185<br>
+Saved Model<br>
+Mean Reward: 97.6056910569<br>
+Mean Reward: 85.329787234<br>
+Mean Reward: 49.4795744681<br>
+Mean Reward: 23.7010309278<br>
+Mean Reward: 54.096875<br>
+Saved Model<br>
+Mean Reward: 72.4375757576<br>
+Mean Reward: 79.3094594595<br>
+Mean Reward: 88.9097744361<br>
+Mean Reward: 71.1553571429<br>
+Mean Reward: 37.4754601227<br>
+Saved Model<br>
+
+
+
