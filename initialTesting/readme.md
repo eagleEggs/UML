@@ -5,7 +5,7 @@ initial testing of the 3DBall build from Unity3d:
 
 
 
-After about 3 minutes there was already progress on the paddles learning.
+After about 3 minutes there was already progress on the paddles learning.<br>
 Learning stats after 10 minutes:
 
 Mean Reward: 11.5581778266<br>
