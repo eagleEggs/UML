@@ -8,10 +8,10 @@ initial testing of the 3DBall build from Unity3d:
 After about 3 minutes there was already progress on the paddles learning.
 Learning stats after 10 minutes:
 
-Mean Reward: 11.5581778266
-Mean Reward: 57.7724137931
-Mean Reward: 15.2754820937
-Mean Reward: 36.0758409786
+Mean Reward: 11.5581778266 
+Mean Reward: 57.7724137931 
+Mean Reward: 15.2754820937 
+Mean Reward: 36.0758409786 
 Mean Reward: 94.5653543307
 Saved Model
 Mean Reward: 35.2173913043
