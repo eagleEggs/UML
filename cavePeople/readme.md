@@ -16,3 +16,8 @@ negative rewards:
   - walking to animal without stick
   - taking animal in cave without cooking
   - carrying animal for a long time
+
+
+pre_UML:
+
+![anim1](https://github.com/eagleEggs/UML/blob/master/cavePeople/screenshots/cavePeople_preUML.gif?raw=true)
