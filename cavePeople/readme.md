@@ -1,5 +1,8 @@
 
 
+![anim1](https://github.com/eagleEggs/UML/blob/master/cavePeople/screenshots/cavePeople_preUML.gif?raw=true)
+
+
 positve rewards:
 
   - picking up stick and taking it to fire
@@ -18,6 +21,3 @@ negative rewards:
   - carrying animal for a long time
 
 
-pre_UML:
-
-![anim1](https://github.com/eagleEggs/UML/blob/master/cavePeople/screenshots/cavePeople_preUML.gif?raw=true)
