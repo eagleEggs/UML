@@ -79,4 +79,7 @@ Mean Reward: 37.4754601227<br>
 Saved Model<br>
 
 
+A second run, with interesting variation and the same conclusion:
+
+![anim1](https://github.com/eagleEggs/UML/blob/master/screenshots/UMLtest2.gif?raw=true)
 
